@@ -1,5 +1,5 @@
 # SPR1NT3R-27-OPNSRC
-this repo provides the documentation and firmware of the SPR1NT3R-27-OPNSRC printer. 
+this repo provides the documentation and server files of the SPR1NT3R-27-OPNSRC printer. 
 
 ## Features
 

@@ -1,2 +1,2 @@
-# PSTH-27-2024
-this repo provides the documentation and firmware of the Printer PSTH-27-2024
+# SPR1NT3R-27-OPNSRC
+this repo provides the documentation and firmware of the Printer SPR1NT3R-27-OPNSRC

@@ -61,16 +61,10 @@ After setting up your printer you have to connect it to the wifi
   *PS: password is not always required
          
 
-The XYZ Printer firmware repository is organized as follows:
-
-- **`firmware/`**: Contains the main firmware files.
-  - `main.cpp`: Entry point and main logic of the firmware.
-  - `config.h`: Configuration settings for the printer.
-  - `printer.cpp`, `printer.h`: Printer-specific functionalities.
+## File Structure
+- **`src/`**: Contains the main source code and files.
+  - `server.py`: The server source code.
+  - `supersecret.png`: Contains the default password for the configuration permission.
+  - `sonic.png`: A test image provided with the server by default.
   - ...
 
-- **`docs/`**: Documentation files for the firmware.
-  - `README.md`: Overview and instructions for using the firmware (this file).
-  - `TROUBLESHOOTING.md`: Troubleshooting guide for common issues.
-  - `CONTRIBUTING.md`: Guidelines for contributing to the project.
-  - ...

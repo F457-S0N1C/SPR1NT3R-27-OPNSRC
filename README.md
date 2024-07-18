@@ -8,11 +8,33 @@ this repo provides the documentation and firmware of the Printer SPR1NT3R-27-OPN
 - **Multiple Paper Sizes**: Compatible with A4, A5, Letter, and Legal paper sizes.
 - **Customizable Settings**: Allows customization of print speed, quality, and paper type.
 - **Error Handling**: Advanced error detection and troubleshooting features.
-- **Firmware Updates**: Easy firmware update process to keep your printer up-to-date with the latest features and fixes.
+- **Easy Of Use**: Easy to deal with interface update.
 
-## Installation
+## Set-Up
 
-To install the firmware on your XYZ Printer, follow these steps:
+After setting up your printer you have to connect it to the wifi 
+# Printer Wi-Fi Connection and Interface Access
+
+## Connecting the Printer to Wi-Fi
+
+1. **Power On**: Ensure the printer is powered on and ready.
+
+2. **Access Settings**: Navigate to the Wi-Fi settings on the printer.
+
+3. **Select Network**: Choose your Wi-Fi network and enter the password.
+
+4. **Connect**: Save settings to connect the printer to Wi-Fi.
+
+## Accessing Printer Interface Using `nc` (Netcat)
+
+1. **Find IP Address**: Locate the printer's IP address on your network.
+
+2. **Open Terminal**: Launch a terminal window on your computer.
+
+3. **Use `nc` Command**: Connect using:
+   ```bash
+   nc <printer_ip_address> <port_number>
+
 
 1. **Download the Firmware**:
    - Download the latest firmware file from the [releases](https://github.com/your-repo/releases) section.

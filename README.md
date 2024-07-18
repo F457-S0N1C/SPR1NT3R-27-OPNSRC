@@ -55,6 +55,10 @@ After setting up your printer you have to connect it to the wifi
   
   ![Screenshot 2024-07-18 144815](https://github.com/user-attachments/assets/b43a560b-65f8-448a-9f42-4aa4bf83219d)
 - `set`: changes the state of a configuration variable
+  ```shell
+  set commands enable <password>
+  ```
+  *PS: password is not always required
          
 
 The XYZ Printer firmware repository is organized as follows:

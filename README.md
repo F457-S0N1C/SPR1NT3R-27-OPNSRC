@@ -34,3 +34,16 @@ To install the firmware on your XYZ Printer, follow these steps:
 - `PRINT <file>`: Print a specified file.
   ```shell
   PRINT document.pdf
+The XYZ Printer firmware repository is organized as follows:
+
+- **`firmware/`**: Contains the main firmware files.
+  - `main.cpp`: Entry point and main logic of the firmware.
+  - `config.h`: Configuration settings for the printer.
+  - `printer.cpp`, `printer.h`: Printer-specific functionalities.
+  - ...
+
+- **`docs/`**: Documentation files for the firmware.
+  - `README.md`: Overview and instructions for using the firmware (this file).
+  - `TROUBLESHOOTING.md`: Troubleshooting guide for common issues.
+  - `CONTRIBUTING.md`: Guidelines for contributing to the project.
+  - ...

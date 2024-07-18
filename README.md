@@ -34,6 +34,7 @@ After setting up your printer you have to connect it to the wifi
 3. **Use `nc` Command**: Connect using:
    ```bash
    nc <printer_ip_address> <port_number>
+   ```
 
 
 1. **Download the Firmware**:

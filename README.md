@@ -13,9 +13,9 @@ this repo provides the documentation and firmware of the Printer SPR1NT3R-27-OPN
 ## Set-Up
 
 After setting up your printer you have to connect it to the wifi 
-# Printer Wi-Fi Connection and Interface Access
+### Printer Wi-Fi Connection and Interface Access
 
-## Connecting the Printer to Wi-Fi
+#### Connecting the Printer to Wi-Fi
 
 1. **Power On**: Ensure the printer is powered on and ready.
 
@@ -25,7 +25,7 @@ After setting up your printer you have to connect it to the wifi
 
 4. **Connect**: Save settings to connect the printer to Wi-Fi.
 
-## Accessing Printer Interface Using `nc` (Netcat)
+#### Accessing Printer Interface Using `nc` (Netcat)
 
 1. **Find IP Address**: Locate the printer's IP address on your network.
 

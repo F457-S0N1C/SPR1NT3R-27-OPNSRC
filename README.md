@@ -40,9 +40,12 @@ After setting up your printer you have to connect it to the wifi
 
 ### Printing Commands
 
-- `PRINT <file>`: Print a specified file.
+- `print <file>`: Print a specified file.
   ```shell
-  PRINT document.pdf
+  print image.png
+- `help`: displays the following menu 
+  ![Screenshot 2024-07-18 144815](https://github.com/user-attachments/assets/f4ed80a7-7220-42d8-99fa-8e237d53009b)
+
 The XYZ Printer firmware repository is organized as follows:
 
 - **`firmware/`**: Contains the main firmware files.

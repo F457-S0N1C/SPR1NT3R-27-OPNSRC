@@ -66,5 +66,6 @@ After setting up your printer you have to connect it to the wifi
   - `server.py`: The server source code.
   - `supersecret.png`: Contains the default password for the configuration permission.
   - `sonic.png`: A test image provided with the server by default.
-  - ...
+## Feedback
+   Please don't hesitate to send your feedback on the challenge upon completion.
 

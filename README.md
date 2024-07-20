@@ -54,9 +54,9 @@ After setting up your printer you have to connect it to the wifi
   ```
 - `print -l`: Displays all the files in the image directory.
   ```shell
-     [-] > print -l 
-      └──images/
-         └───sonic.png✔️
+  [-] > print -l 
+   └──images/
+      └───sonic.png✔️
   ```
 - `help`: displays the following menu:
   

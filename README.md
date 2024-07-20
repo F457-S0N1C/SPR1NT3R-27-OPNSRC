@@ -37,7 +37,7 @@ After setting up your printer you have to connect it to the wifi
    ```
 ## Menu
    The user has a menu of choices he can tweaker with.
-   ![Screenshot 2024-07-18 150139](https://github.com/user-attachments/assets/428a49df-7892-4a41-9d95-b5020485dc22)
+   ![Screenshot 2024-07-20 105736](https://github.com/user-attachments/assets/50e52892-aa20-49eb-9277-68b0d1190333)
 
 ### Check Stats
 

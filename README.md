@@ -41,7 +41,8 @@ After setting up your printer you have to connect it to the wifi
 
 ### Check Stats
 
-   ![Screenshot 2024-07-18 150253](https://github.com/user-attachments/assets/bdca56ba-303d-4dcf-b8e2-e984d568e128)
+   ![Screenshot 2024-07-20 105612](https://github.com/user-attachments/assets/598ff13c-763c-41df-b9d8-3956af548639)
+
 
 ## Commands
 
